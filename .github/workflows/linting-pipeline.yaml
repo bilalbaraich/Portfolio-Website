@@ -29,3 +29,14 @@ jobs:
 
       - name: Lint CSS Files
         run: npx stylelint "styles/**/*.css"
+
+
+
+
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Stylelint
+        run: npx stylelint "styles/**/*.css"
+
