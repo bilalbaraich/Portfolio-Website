@@ -11,4 +11,11 @@
     "author": "Your Name",
     "license": "ISC"
   }
+{
+  "devDependencies": {
+    "stylelint": "^15.0.0",
+    "stylelint-config-standard": "^30.0.0"
+  }
+}
+
   
